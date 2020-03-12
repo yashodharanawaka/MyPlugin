@@ -1,0 +1,4 @@
+String host = "smtp.gmail.com";
+        String port = "587";
+        String mailFrom = "sentFrom";
+        String password = "password";
